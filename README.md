@@ -4,8 +4,7 @@
 1. **Random Math Problems** (+, -, *, /)  
 2. **Difficulty Levels** (Easy, Medium, Hard)  
 3. **Scoring System** (Tracks correct/incorrect answers)  
-4. **Time Limit (Optional)** (Challenge the user)  
-5. **Final Score Display**  
+4. **Final Score Display**  
 
 ---
 

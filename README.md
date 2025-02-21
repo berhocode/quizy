@@ -18,7 +18,3 @@
 
 ---
 
-### 🚀 **Extra Features (If You Want to Go Further):**  
-- A **timer** for each question.  
-- A **leaderboard** (store high scores in a file).  
-- Different **question types** (like exponentiation).
